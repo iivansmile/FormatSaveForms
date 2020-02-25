@@ -1,0 +1,11 @@
+C:\Users\Jopolo Camcam\Desktop\FormatSaveFormsturla\formatsaveforms turla\formatsaveforms turla\bin\Debug\formatsaveforms turla.exe.config
+C:\Users\Jopolo Camcam\Desktop\FormatSaveFormsturla\formatsaveforms turla\formatsaveforms turla\bin\Debug\formatsaveforms turla.exe
+C:\Users\Jopolo Camcam\Desktop\FormatSaveFormsturla\formatsaveforms turla\formatsaveforms turla\bin\Debug\formatsaveforms turla.pdb
+C:\Users\Jopolo Camcam\Desktop\FormatSaveFormsturla\formatsaveforms turla\formatsaveforms turla\bin\Debug\formatsaveforms turla.xml
+C:\Users\Jopolo Camcam\Desktop\FormatSaveFormsturla\formatsaveforms turla\formatsaveforms turla\obj\Debug\formatsaveforms turla.vbprojAssemblyReference.cache
+C:\Users\Jopolo Camcam\Desktop\FormatSaveFormsturla\formatsaveforms turla\formatsaveforms turla\obj\Debug\formatsaveforms_turla.Form1.resources
+C:\Users\Jopolo Camcam\Desktop\FormatSaveFormsturla\formatsaveforms turla\formatsaveforms turla\obj\Debug\formatsaveforms_turla.Resources.resources
+C:\Users\Jopolo Camcam\Desktop\FormatSaveFormsturla\formatsaveforms turla\formatsaveforms turla\obj\Debug\formatsaveforms turla.vbproj.GenerateResource.cache
+C:\Users\Jopolo Camcam\Desktop\FormatSaveFormsturla\formatsaveforms turla\formatsaveforms turla\obj\Debug\formatsaveforms turla.exe
+C:\Users\Jopolo Camcam\Desktop\FormatSaveFormsturla\formatsaveforms turla\formatsaveforms turla\obj\Debug\formatsaveforms turla.xml
+C:\Users\Jopolo Camcam\Desktop\FormatSaveFormsturla\formatsaveforms turla\formatsaveforms turla\obj\Debug\formatsaveforms turla.pdb
